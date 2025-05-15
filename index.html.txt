@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evandro Eletricista</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #111;
+      color: #eee;
+    }
+
+    header {
+      background-color: #000;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 2px solid #ffcc00;
+    }
+
+    header h1 {
+      color: #ffcc00;
+      font-size: 36px;
+      margin: 0;
+    }
+
+    nav {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    nav a {
+      color: #ffcc00;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    section h2 {
+      color: #ffcc00;
+      border-bottom: 1px solid #555;
+      padding-bottom: 10px;
+    }
+
+    section p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    .cta {
+      text-align: center;
+      margin: 40px 0;
+    }
+
+    .cta a {
+      background-color: #ffcc00;
+      color: #000;
+      padding: 15px 30px;
+      font-size: 20px;
+      font-weight: bold;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+
+    .cta a:hover {
+      background-color: #e6b800;
+    }
+
+    footer {
+      background-color: #000;
+      color: #888;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      border-top: 1px solid #333;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>EVANDRO ELETRICISTA</h1>
+    <nav>
+      <a href="#residencial">Residencial</a>
+      <a href="#predial">Predial</a>
+      <a href="#industrial">Industrial</a>
+    </nav>
+  </header>
+
+  <section id="residencial">
+    <h2>Serviços de Elétrica Residencial</h2>
+    <p>
+      Realizamos instalações, reparos e manutenções em residências com segurança e qualidade. 
+      Atuamos em troca de disjuntores, instalação de tomadas, iluminação LED, ventiladores de teto, 
+      quadros de distribuição, aterramento e muito mais. Garantimos agilidade, organização e acabamento profissional.
+    </p>
+  </section>
+
+  <section id="predial">
+    <h2>Serviços de Elétrica Predial</h2>
+    <p>
+      Atendimento completo para condomínios, edifícios e prédios comerciais. Executamos manutenções em quadros gerais, 
+      sistemas de iluminação de emergência, sensores de presença, fiação de áreas comuns, e adequações conforme normas 
+      da NBR 5410. Profissionalismo e confiança para garantir a segurança de todos.
+    </p>
+  </section>
+
+  <section id="industrial">
+    <h2>Serviços de Elétrica Industrial</h2>
+    <p>
+      Manutenções preventivas e corretivas em sistemas industriais. Atuamos em painéis de comando, motores elétricos, 
+      sistemas trifásicos, instalações de maquinários, automação e redes de distribuição. Garantimos confiabilidade 
+      elétrica com foco em produtividade e segurança no ambiente industrial.
+    </p>
+  </section>
+
+  <div class="cta">
+    <a href="https://wa.me/5544999979042" target="_blank">Solicitar Orçamento via WhatsApp</a>
+  </div>
+
+  <footer>
+    © 2025 Evandro Eletricista. Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>
+	◦	
